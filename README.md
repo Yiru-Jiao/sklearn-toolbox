@@ -7,17 +7,17 @@
 工具箱没有试图面面俱到地囊括scikit-learn的所有内容，但覆盖了根据我的学习和理解认为相较常用的部分。另外，未曾详细记录的工具标注了参考链接。\
 我真切地希望这个工具箱可以帮助有需要的研究者和学习者节省时间和精力，从而利用好机器学习这一如今最有效的工具之一、点燃更多智慧的火花。\
 The purpose of this toolbox is to provide a convenient  method for researchers and learners like me, who do not focuses on pure computers science, to look up and utilize the machine learning algorithms they need.\
-The toolbox does not attempt to embrace everything of scikit-learn, but only covers what I personally think is commonly needed. In addition, tools that are not recorded in detail are noted with reference links for deeper knowing.\ 
+The toolbox does not attempt to embrace everything of scikit-learn, but only covers what I personally think is commonly needed. In addition, tools that are not recorded in detail are noted with reference links for deeper knowing.\
 I truly hope the toolbox will help researchers and learners who need it to save time and effort, so that they can take advantage of machine learning, one of the most effective tools available today, and ignite their sparks of wisdom.
 
 本工具箱是一个jupyter notebook，以下是几点使用说明。\
 This tookbox is a jupyter notebook, and the following is a few notes on how to use it.
 
-- 这个notebook仅用于查询和简单的使用。如果你想了解更多关于机器学习模型和算法的知识，请购买书籍或参加课程。我个人推荐周志华老师的《机器学习》。
-- This notebook is for __query and simple use__ only. If you want to know more about machine learning models and algorithms, do buy a book or take a course. Personally I would recommend "Machine Learning" by Professor Zhihua Zhou.
+1. 这个notebook仅用于查询和简单的使用。如果你想了解更多关于机器学习模型和算法的知识，请购买书籍或参加课程。我个人推荐周志华老师的《机器学习》。\
+This notebook is for __query and simple use__ only. If you want to know more about machine learning models and algorithms, do buy a book or take a course. Personally I would recommend "Machine Learning" by Professor Zhihua Zhou.
 
-- 这个notebook所用的`scikit-learn`的版本是0.23.2，其中通过注释提到了0.24版本的一些变化，但没有写在运行代码中。
-- The version of `scikit-learn` used in this notebook was 0.23.2. Some changes in version 0.24 are mentioned by comments, but not used in the running code.
+2. 这个notebook所用的`scikit-learn`的版本是0.23.2，其中通过注释提到了0.24版本的一些变化，但没有写在运行代码中。\
+The version of `scikit-learn` used in this notebook was 0.23.2. Some changes in version 0.24 are mentioned by comments, but not used in the running code.
 
 - 强烈建议在不确定或需要更深入使用时查看[user guide](https://scikit-learn.org/stable/user_guide.html#user-guide)，以确保正确使用和良好性能。
 - Checking the official [user guide](https://scikit-learn.org/stable/user_guide.html#user-guide) is always highly recommended to ensure proper usage and good performance. 
