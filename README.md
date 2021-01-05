@@ -13,6 +13,9 @@ I truly hope the toolbox will help researchers and learners who need it to save 
 本工具箱是一个jupyter notebook，以下是几点使用说明。\
 This tookbox is a jupyter notebook, and the following is a few notes on how to use it.
 
+0. 这个notebook的最开始添加了目录，但仍然推荐安装[jupyter_contrib_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)并开启Table of Contents以便于互动式导航。\
+A table of contents is added at the beginning of this notebook, but it is still recommended to install [jupyter_contrib_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) and enable Table of Contents for interactive navigation.
+
 1. 这个notebook仅用于查询和简单的使用。如果你想了解更多关于机器学习模型和算法的知识，请购买书籍或参加课程。我个人推荐周志华老师的《机器学习》。\
 This notebook is for __query and simple use__ only. If you want to know more about machine learning models and algorithms, do buy a book or take a course. Personally I would recommend "Machine Learning" by Professor Zhihua Zhou.
 
