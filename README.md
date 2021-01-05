@@ -22,8 +22,8 @@ The version of `scikit-learn` used in this notebook was 0.23.2. Some changes in 
 3. 强烈建议在不确定或需要更深入使用时查看[user guide](https://scikit-learn.org/stable/user_guide.html#user-guide)，以确保正确使用和良好性能。\
 Checking the official [user guide](https://scikit-learn.org/stable/user_guide.html#user-guide) is always highly recommended to ensure proper usage and good performance. 
 
-4. 第1~3节需要先运行第0节以获得测试数据；第4节需要先运行第4节最开头的box以获得测试数据。\
-Sections 1~3 requires running section 0 first to get the test data; section 4 requires running the box at the beginning of section 4 first to get the test data.
+4. 第1-3节需要先运行第0节以获得测试数据；第4节需要先运行第4节最开头的box以获得测试数据。\
+Sections 1-3 requires running section 0 first to get the test data; section 4 requires running the box at the beginning of section 4 first to get the test data.
 
 5. 对于有标签的数据，可以通过ctrl+find "clf"搜索分类器；同样，ctrl+find "reg "可以搜索回归器。\
 With labelled data, search for classifiers by ctrl+find "clf"; similarly, search for regressor by ctrl+find "reg".
