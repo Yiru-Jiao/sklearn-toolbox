@@ -19,23 +19,23 @@ This notebook is for __query and simple use__ only. If you want to know more abo
 2. 这个notebook所用的`scikit-learn`的版本是0.23.2，其中通过注释提到了0.24版本的一些变化，但没有写在运行代码中。\
 The version of `scikit-learn` used in this notebook was 0.23.2. Some changes in version 0.24 are mentioned by comments, but not used in the running code.
 
-- 强烈建议在不确定或需要更深入使用时查看[user guide](https://scikit-learn.org/stable/user_guide.html#user-guide)，以确保正确使用和良好性能。
-- Checking the official [user guide](https://scikit-learn.org/stable/user_guide.html#user-guide) is always highly recommended to ensure proper usage and good performance. 
+3. 强烈建议在不确定或需要更深入使用时查看[user guide](https://scikit-learn.org/stable/user_guide.html#user-guide)，以确保正确使用和良好性能。\
+Checking the official [user guide](https://scikit-learn.org/stable/user_guide.html#user-guide) is always highly recommended to ensure proper usage and good performance. 
 
-- 第1~3节需要先运行第0节以获得测试数据；第4节需要先运行第4节最开头的box以获得测试数据。
-- Sections 1~3 requires running section 0 first to get the test data; section 4 requires running the box at the beginning of section 4 first to get the test data.
+4. 第1~3节需要先运行第0节以获得测试数据；第4节需要先运行第4节最开头的box以获得测试数据。\
+Sections 1~3 requires running section 0 first to get the test data; section 4 requires running the box at the beginning of section 4 first to get the test data.
 
-- 对于有标签的数据，可以通过ctrl+find "clf"搜索分类器；同样，ctrl+find "reg "可以搜索回归器。
-- With labelled data, search for classifiers by ctrl+find "clf"; similarly, search for regressor by ctrl+find "reg".
+5. 对于有标签的数据，可以通过ctrl+find "clf"搜索分类器；同样，ctrl+find "reg "可以搜索回归器。\
+With labelled data, search for classifiers by ctrl+find "clf"; similarly, search for regressor by ctrl+find "reg".
 
-- 对于未标注的数据，可以通过ctrl+find "density estimation"、"clustering "或 "dimensionality reduction"来搜索相应的算法。
-- With unlabelled data, ctrl+find "density estimation", "clustering", or "dimensionality reduction" to search for corresponding algorithms.
+6. 对于未标注的数据，可以通过ctrl+find "density estimation"、"clustering "或 "dimensionality reduction"来搜索相应的算法。\
+With unlabelled data, ctrl+find "density estimation", "clustering", or "dimensionality reduction" to search for corresponding algorithms.
 
-- 形如“parameters=xxx”的注释通常意味着xxx为算法的默认值，偶尔是便于理解的其他值；使用时请根据实际情况调整。
-- Comments like "parameters=xxx" usually mean that xxx is the default value of the parameter. Occasionally it is some other value that is easier to use. __Please adjust them in the practice__ .
+7. 形如“parameters=xxx”的注释通常意味着xxx为算法的默认值，偶尔是便于理解的其他值；使用时请根据实际情况调整。\
+Comments like "parameters=xxx" usually mean that xxx is the default value of the parameter. Occasionally it is some other value that is easier to use. __Please adjust them in the practice__ .
 
-- 形如“其他参数就像somefunction的参数一样”意味着我没有重复记录这些参数，请查看对应算法的注释。
-- Comments like "other parameters are like somefunction's" mean that I would not repeat those parameters. So please check the corresponding algorithms.
+8. 形如“其他参数就像somefunction的参数一样”意味着我没有重复记录这些参数，请查看对应算法的注释。\
+Comments like "other parameters are like somefunction's" mean that I would not repeat those parameters. So please check the corresponding algorithms.
 
-- 其他事项有待补充
-- More to add
+9. 其他事项有待补充\
+More to add
