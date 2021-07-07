@@ -3,12 +3,8 @@
 `scikit-learn`是一个适用于python语言环境的机器学习算法的开源库，从它的[官方网站](https://scikit-learn.org/stable)可以获得其安装途径、简单教程、和用户手册。\
 `scikit-learn` is an open source library of machine learning algorithms for the python environment. The [official website of scikit-learn](https://scikit-learn.org/stable) provides its installation method, simple tutorial, and user guide.
 
-写这份工具箱的初衷是为像我一样的非纯计算机领域的学习者和研究者提供一个可以便捷查询和使用所需机器学习算法的工具。\
-工具箱没有试图面面俱到地囊括scikit-learn的所有内容，但覆盖了根据我的学习和理解认为相较常用的部分。另外，未曾详细记录的工具标注了参考链接。\
-我真切地希望这个工具箱可以帮助有需要的研究者和学习者节省时间和精力，从而利用好机器学习这一如今最有效的工具之一、点燃更多智慧的火花。\
-The purpose of this toolbox is to provide a convenient  method for researchers and learners like me, who do not focuses on pure computers science, to look up and utilize the machine learning algorithms they need.\
-The toolbox does not attempt to embrace everything of scikit-learn, but only covers what I personally think is commonly needed. In addition, tools that are not recorded in detail are noted with reference links for deeper knowing.\
-I truly hope the toolbox will help researchers and learners who need it to save time and effort, so that they can take advantage of machine learning, one of the most effective tools available today, and ignite their sparks of wisdom.
+写这份工具箱的初衷是为像我一样的非纯计算机领域的学习者和研究者提供一个可以便捷查询和使用所需机器学习算法的工具。工具箱没有试图面面俱到地囊括scikit-learn的所有内容，但覆盖了根据我的学习和理解认为相较常用的部分。另外，未曾详细记录的工具标注了参考链接。我真切地希望这个工具箱可以帮助有需要的研究者和学习者节省时间和精力，从而利用好机器学习这一如今最有效的工具之一、点燃更多智慧的火花。\
+The purpose of this toolbox is to provide a convenient  method for researchers and learners like me, who do not focuses on pure computers science, to look up and utilize the machine learning algorithms they need. The toolbox does not attempt to embrace everything of scikit-learn, but only covers what I personally think is commonly needed. In addition, tools that are not recorded in detail are noted with reference links for deeper knowing. I truly hope the toolbox will help researchers and learners who need it to save time and effort, so that they can take advantage of machine learning, one of the most effective tools available today, and ignite their sparks of wisdom.
 
 本工具箱是一个jupyter notebook，以下是几点使用说明。\
 This tookbox is a jupyter notebook, and the following is a few notes on how to use it.
